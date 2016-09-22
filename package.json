@@ -1,0 +1,17 @@
+{
+  "name": "node-getting-started",
+  "version": "1.0.0",
+  "description": "Node.js tutorial by Wes Higbee on Safari",
+  "main": "express-server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-favicon": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
